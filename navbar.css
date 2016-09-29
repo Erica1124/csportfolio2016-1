@@ -1,0 +1,31 @@
+#navbar {
+    text-align:center;
+}
+
+#navbar li {
+    display:inline-block;
+    border: 4px solid white;
+    padding: 10px;
+    background-color: gray;
+    border-radius: 49%
+}
+
+#navbar a {
+    color: white;
+    
+}
+.centered-stuff {
+    text-align: center;
+}
+.thin-white-border{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.thick-white-border{
+    margin-left: 300px;
+    margin-right:300px;
+}
+.white-text{
+    text-align: center;
+}
